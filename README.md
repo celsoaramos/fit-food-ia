@@ -4,7 +4,15 @@
 Chega de dietas mirabolantes e treinos maçantes! 🥱 Com o FitFood, você terá em suas mãos um personal trainer e nutricionista virtual que entendem suas necessidades e te guiam rumo a uma vida mais saudável e feliz! 🎉
 
 
+💪🥗 LINK EM PRODUÇÃO
+
+
+https://fit-food-ia.vercel.app/
+
+
 🪄 A Magia do FitFood:
+
+
 Exercícios Personalizados: Conte-nos seus objetivos, equipamentos disponíveis e limitações. O FitFood te surpreenderá com uma série de exercícios sob medida, com gifs explicativos para você mandar ver! 💪
 
 
@@ -26,3 +34,4 @@ Integração com smartwatches para monitorar seus treinos.
 Criação de grupos para compartilhar dicas e motivar os amigos.
 Desafios e recompensas para manter a chama da disciplina acesa! 🔥
 FitFood: Seu Parceiro Ideal na Jornada por uma Vida Extraordinária! ✨
+
